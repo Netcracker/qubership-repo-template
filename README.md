@@ -1,0 +1,1 @@
+# qubership-repo-template
