@@ -1,5 +1,7 @@
 # qubership-repo-template
 
+Click [here](https://github.com/Netcracker/qubership-repo-template/generate) to create your copy of this repository.
+
 ## Installation
 
 This section typically describes the process of preparing the project for use, including required dependencies and general setup steps.
